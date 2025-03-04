@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif, "Script MT Bold";
+}
+
+.header {
+    font-size: 36px;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+.input-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+    width: 1200px;
+    border: 0.5px solid whitesmoke;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px rgba(0,0,0, 0.1) ;
+}
+
+#text{
+    width: 200px;
+    height
+}
+
+#button{
+
+}
