@@ -7,6 +7,8 @@ button.addEventListener('click', function () {
     localStorage.setItem('text', inputText)
 
     alert("Eintrag erstellt.")
+    window.location.reload()
+
 })
 
 function loadNewPage() {
